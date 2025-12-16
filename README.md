@@ -65,4 +65,4 @@ This project seeks to conduct a comprehensive analysis of port data covering the
 | 03                | 28/11/2025 | completed | [MVP](MVP/sp3.md)  |
 | Solutions Fair| 04/12/2025 | completed  | [MVP](MVP/Solutionsfair.md)  |
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=b4001a&section=footer&reversal=false&textBg=false&strokeWidth=854"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1A191A&section=footer&reversal=false&textBg=false&strokeWidth=854"/>
