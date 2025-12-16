@@ -35,10 +35,11 @@ This project seeks to conduct a comprehensive analysis of port data covering the
 
 ## Technologies Applied
 
-* Jira Software
+* Click Up
 * Power BI
 * Microsoft Excel
-* Python (Colab)
+* Python
+* MySQL
 * Canva
 
 
